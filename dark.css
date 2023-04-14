@@ -146,9 +146,10 @@ h2.heading {
 }
 
 input.form {
-    height: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     width: 300px;
-    font-size: large;
+    font-size: 15px;
 }
 
 textarea.form {
@@ -159,9 +160,10 @@ textarea.form {
 }
 
 select.form {
-    height: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     width: 300px;
-    font-size: large;
+    font-size: 15px;
 }
 
 
