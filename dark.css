@@ -311,12 +311,12 @@ input[type=checkbox].form {
 }
 
 .link {
-    color: #4f4f4f;
+    color: dodgerblue;
     text-decoration: none;
 }
 
 .link:hover {
-    color: black;
+    text-decoration: underline;
 }
 
 .card {
