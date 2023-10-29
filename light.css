@@ -26,6 +26,10 @@ body {
     border-bottom-left-radius: 0 !important;
     border-bottom: 2px solid dodgerblue !important;
     margin-left: 0;
+    padding-top: 10px !important;
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+    padding-bottom: 8px !important;
 }
 
 .btn:hover {
@@ -156,6 +160,11 @@ input.form {
     box-sizing: border-box;
     width: 300px;
     font-size: 15px;
+}
+
+input.form.form-join, select.form.form-join {
+    border-top-right-radius: 0 !important;
+    border-bottom-right-radius: 0 !important;
 }
 
 textarea.form {
