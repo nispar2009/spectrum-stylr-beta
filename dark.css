@@ -28,10 +28,6 @@ body {
     border-bottom-left-radius: 0 !important;
     border-bottom: 2px solid dodgerblue !important;
     margin-left: 0;
-    padding-top: 10px !important;
-    padding-left: 10px !important;
-    padding-right: 10px !important;
-    padding-bottom: 8px !important;
 }
 
 .btn:hover {
