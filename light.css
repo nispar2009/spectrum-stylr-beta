@@ -21,6 +21,13 @@ body {
     border-radius: 100px;
 }
 
+.btn.btn-form {
+    border-top-left-radius: 0 !important;
+    border-bottom-left-radius: 0 !important;
+    border-bottom: 2px solid dodgerblue !important;
+    margin-left: 0;
+}
+
 .btn:hover {
     transition: 0.2s;
     background-color: grey;
